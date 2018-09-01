@@ -1,0 +1,5 @@
+# Execute files
+*.jar
+
+# Log
+logs/
