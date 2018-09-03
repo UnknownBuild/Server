@@ -401,13 +401,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-15 23:55:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-15 23:55:48 +0800"
     },
@@ -596,6 +596,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2018-09-01 18:11:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2018-09-02 23:13:15 +0800"
     },
     "done": true
   },
@@ -1154,6 +1160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-09-02 12:38:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2018-09-01 18:19:25 +0800"
@@ -1223,6 +1235,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2018-09-01 19:59:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2018-09-02 12:11:30 +0800"
     },
     "done": true
   },
@@ -1300,8 +1318,8 @@
       "minecraft:birch_forest": "2018-08-16 15:29:43 +0800",
       "minecraft:beach": "2018-08-15 21:44:43 +0800",
       "minecraft:dark_forest": "2018-08-15 21:42:41 +0800",
-      "minecraft:lukewarm_ocean": "2018-08-15 21:44:49 +0800",
       "minecraft:river": "2018-08-15 21:50:53 +0800",
+      "minecraft:lukewarm_ocean": "2018-08-15 21:44:49 +0800",
       "minecraft:wooded_hills": "2018-08-15 22:13:34 +0800",
       "minecraft:swamp": "2018-08-15 22:15:05 +0800",
       "minecraft:plains": "2018-08-15 21:41:07 +0800"
